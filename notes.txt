@@ -1,0 +1,4 @@
+git log --oneline
+git checkout fileA.txt #to get back file when it deleted locally to get from local repo 
+git status -s #means short status
+git log --oneline -2 
